@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SVSThanmayi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SVSThanmayi/Leetcode/tree/master/0058-length-of-last-word) |
+| [0742-to-lower-case](https://github.com/SVSThanmayi/Leetcode/tree/master/0742-to-lower-case) |
 | [1651-shuffle-string](https://github.com/SVSThanmayi/Leetcode/tree/master/1651-shuffle-string) |
 ## Math
 |  |
