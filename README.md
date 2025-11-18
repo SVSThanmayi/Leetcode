@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/SVSThanmayi/Leetcode/tree/master/0058-length-of-last-word) |
 | [1651-shuffle-string](https://github.com/SVSThanmayi/Leetcode/tree/master/1651-shuffle-string) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
