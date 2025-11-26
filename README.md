@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SVSThanmayi/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/SVSThanmayi/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SVSThanmayi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1651-shuffle-string](https://github.com/SVSThanmayi/Leetcode/tree/master/1651-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SVSThanmayi/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/SVSThanmayi/Leetcode/tree/master/1816-truncate-sentence) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SVSThanmayi/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SVSThanmayi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
