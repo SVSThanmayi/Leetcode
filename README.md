@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/SVSThanmayi/Leetcode/tree/master/1651-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SVSThanmayi/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/SVSThanmayi/Leetcode/tree/master/1816-truncate-sentence) |
+| [1920-build-array-from-permutation](https://github.com/SVSThanmayi/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SVSThanmayi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SVSThanmayi/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SVSThanmayi/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/SVSThanmayi/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SVSThanmayi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SVSThanmayi/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Dynamic Programming
