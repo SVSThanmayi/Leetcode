@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SVSThanmayi/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SVSThanmayi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SVSThanmayi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/SVSThanmayi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/SVSThanmayi/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1651-shuffle-string](https://github.com/SVSThanmayi/Leetcode/tree/master/1651-shuffle-string) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/SVSThanmayi/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
