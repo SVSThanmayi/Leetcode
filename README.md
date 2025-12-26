@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SVSThanmayi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SVSThanmayi/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SVSThanmayi/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/SVSThanmayi/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0268-missing-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SVSThanmayi/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Stack
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SVSThanmayi/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/SVSThanmayi/Leetcode/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/SVSThanmayi/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SVSThanmayi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SVSThanmayi/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3074-apple-redistribution-into-boxes](https://github.com/SVSThanmayi/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SVSThanmayi/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
