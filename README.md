@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/SVSThanmayi/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SVSThanmayi/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SVSThanmayi/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SVSThanmayi/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SVSThanmayi/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SVSThanmayi/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SVSThanmayi/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SVSThanmayi/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Stack
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SVSThanmayi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/SVSThanmayi/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/SVSThanmayi/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SVSThanmayi/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## String Matching
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SVSThanmayi/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/SVSThanmayi/Leetcode/tree/master/0342-power-of-four) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SVSThanmayi/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Binary Search
 |  |
 | ------- |
