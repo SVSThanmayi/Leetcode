@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SVSThanmayi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/SVSThanmayi/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SVSThanmayi/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3560-find-minimum-log-transportation-cost](https://github.com/SVSThanmayi/Leetcode/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SVSThanmayi/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SVSThanmayi/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1859-sorting-the-sentence](https://github.com/SVSThanmayi/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SVSThanmayi/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3536-maximum-product-of-two-digits](https://github.com/SVSThanmayi/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
