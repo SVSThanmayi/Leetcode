@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/SVSThanmayi/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SVSThanmayi/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SVSThanmayi/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/SVSThanmayi/Leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SVSThanmayi/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Math
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SVSThanmayi/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/SVSThanmayi/Leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SVSThanmayi/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SVSThanmayi/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3663-find-the-least-frequent-digit](https://github.com/SVSThanmayi/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
