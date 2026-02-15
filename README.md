@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/SVSThanmayi/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SVSThanmayi/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SVSThanmayi/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SVSThanmayi/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/SVSThanmayi/Leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SVSThanmayi/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Math
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SVSThanmayi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SVSThanmayi/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3492-maximum-containers-on-a-ship](https://github.com/SVSThanmayi/Leetcode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SVSThanmayi/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/SVSThanmayi/Leetcode/tree/master/3516-find-closest-person) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/SVSThanmayi/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SVSThanmayi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SVSThanmayi/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SVSThanmayi/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/SVSThanmayi/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Dynamic Programming
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SVSThanmayi/Leetcode/tree/master/0258-add-digits) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SVSThanmayi/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SVSThanmayi/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SVSThanmayi/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -204,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SVSThanmayi/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/SVSThanmayi/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SVSThanmayi/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
