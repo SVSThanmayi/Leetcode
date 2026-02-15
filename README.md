@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SVSThanmayi/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SVSThanmayi/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SVSThanmayi/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/SVSThanmayi/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/SVSThanmayi/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/SVSThanmayi/Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SVSThanmayi/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SVSThanmayi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/SVSThanmayi/Leetcode/tree/master/0771-jewels-and-stones) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SVSThanmayi/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/SVSThanmayi/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/SVSThanmayi/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## String
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SVSThanmayi/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/SVSThanmayi/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/SVSThanmayi/Leetcode/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SVSThanmayi/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SVSThanmayi/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SVSThanmayi/Leetcode/tree/master/0258-add-digits) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/SVSThanmayi/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SVSThanmayi/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -189,5 +193,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/SVSThanmayi/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/SVSThanmayi/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 <!---LeetCode Topics End-->
