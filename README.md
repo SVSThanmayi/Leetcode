@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/SVSThanmayi/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SVSThanmayi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SVSThanmayi/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2965-find-missing-and-repeated-values](https://github.com/SVSThanmayi/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/SVSThanmayi/Leetcode/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SVSThanmayi/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SVSThanmayi/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SVSThanmayi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/SVSThanmayi/Leetcode/tree/master/0771-jewels-and-stones) |
+| [2965-find-missing-and-repeated-values](https://github.com/SVSThanmayi/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SVSThanmayi/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SVSThanmayi/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SVSThanmayi/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SVSThanmayi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/SVSThanmayi/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/SVSThanmayi/Leetcode/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SVSThanmayi/Leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3099-harshad-number](https://github.com/SVSThanmayi/Leetcode/tree/master/3099-harshad-number) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/SVSThanmayi/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2965-find-missing-and-repeated-values](https://github.com/SVSThanmayi/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
