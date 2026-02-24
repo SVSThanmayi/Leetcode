@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/SVSThanmayi/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3697-compute-decimal-representation](https://github.com/SVSThanmayi/Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SVSThanmayi/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/SVSThanmayi/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/SVSThanmayi/Leetcode/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SVSThanmayi/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3536-maximum-product-of-two-digits](https://github.com/SVSThanmayi/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/SVSThanmayi/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Simulation
 |  |
 | ------- |
