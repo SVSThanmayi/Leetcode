@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SVSThanmayi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [2843-count-symmetric-integers](https://github.com/SVSThanmayi/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/SVSThanmayi/Leetcode/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SVSThanmayi/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SVSThanmayi/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2843-count-symmetric-integers](https://github.com/SVSThanmayi/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SVSThanmayi/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/SVSThanmayi/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
