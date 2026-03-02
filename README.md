@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/SVSThanmayi/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SVSThanmayi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SVSThanmayi/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SVSThanmayi/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2748-number-of-beautiful-pairs](https://github.com/SVSThanmayi/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SVSThanmayi/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/SVSThanmayi/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SVSThanmayi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SVSThanmayi/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/SVSThanmayi/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SVSThanmayi/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/SVSThanmayi/Leetcode/tree/master/2485-find-the-pivot-integer) |
