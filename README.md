@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SVSThanmayi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/SVSThanmayi/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/SVSThanmayi/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/SVSThanmayi/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/SVSThanmayi/Leetcode/tree/master/2427-number-of-common-factors) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/SVSThanmayi/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/SVSThanmayi/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/SVSThanmayi/Leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/SVSThanmayi/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/SVSThanmayi/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/SVSThanmayi/Leetcode/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SVSThanmayi/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
