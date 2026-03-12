@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/SVSThanmayi/Leetcode/tree/master/1651-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SVSThanmayi/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/SVSThanmayi/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/SVSThanmayi/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/SVSThanmayi/Leetcode/tree/master/1816-truncate-sentence) |
 | [1859-sorting-the-sentence](https://github.com/SVSThanmayi/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/SVSThanmayi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SVSThanmayi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/SVSThanmayi/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/SVSThanmayi/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/SVSThanmayi/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/SVSThanmayi/Leetcode/tree/master/1903-largest-odd-number-in-string) |
