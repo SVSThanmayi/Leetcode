@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SVSThanmayi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [1486-xor-operation-in-an-array](https://github.com/SVSThanmayi/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/SVSThanmayi/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/SVSThanmayi/Leetcode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SVSThanmayi/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SVSThanmayi/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/SVSThanmayi/Leetcode/tree/master/0342-power-of-four) |
+| [1486-xor-operation-in-an-array](https://github.com/SVSThanmayi/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/SVSThanmayi/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/SVSThanmayi/Leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/SVSThanmayi/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
