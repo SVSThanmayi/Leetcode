@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SVSThanmayi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/SVSThanmayi/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1512-number-of-good-pairs](https://github.com/SVSThanmayi/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/SVSThanmayi/Leetcode/tree/master/1651-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SVSThanmayi/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/SVSThanmayi/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SVSThanmayi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/SVSThanmayi/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/SVSThanmayi/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/SVSThanmayi/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2748-number-of-beautiful-pairs](https://github.com/SVSThanmayi/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/SVSThanmayi/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SVSThanmayi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [1512-number-of-good-pairs](https://github.com/SVSThanmayi/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/SVSThanmayi/Leetcode/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SVSThanmayi/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/SVSThanmayi/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/SVSThanmayi/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/SVSThanmayi/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2748-number-of-beautiful-pairs](https://github.com/SVSThanmayi/Leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/SVSThanmayi/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
