@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SVSThanmayi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/SVSThanmayi/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/SVSThanmayi/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/SVSThanmayi/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SVSThanmayi/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/SVSThanmayi/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SVSThanmayi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/SVSThanmayi/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/SVSThanmayi/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SVSThanmayi/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SVSThanmayi/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/SVSThanmayi/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SVSThanmayi/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Linked List
 |  |
