@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SVSThanmayi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/SVSThanmayi/Leetcode/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/SVSThanmayi/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1154-day-of-the-year](https://github.com/SVSThanmayi/Leetcode/tree/master/1154-day-of-the-year) |
 | [1205-defanging-an-ip-address](https://github.com/SVSThanmayi/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1360-number-of-days-between-two-dates](https://github.com/SVSThanmayi/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
 | [1651-shuffle-string](https://github.com/SVSThanmayi/Leetcode/tree/master/1651-shuffle-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SVSThanmayi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [1154-day-of-the-year](https://github.com/SVSThanmayi/Leetcode/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/SVSThanmayi/Leetcode/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/SVSThanmayi/Leetcode/tree/master/1185-day-of-the-week) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SVSThanmayi/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
