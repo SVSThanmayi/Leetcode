@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SVSThanmayi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/SVSThanmayi/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1037-valid-boomerang](https://github.com/SVSThanmayi/Leetcode/tree/master/1037-valid-boomerang) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SVSThanmayi/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SVSThanmayi/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/SVSThanmayi/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/SVSThanmayi/Leetcode/tree/master/1025-divisor-game) |
+| [1037-valid-boomerang](https://github.com/SVSThanmayi/Leetcode/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SVSThanmayi/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/SVSThanmayi/Leetcode/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/SVSThanmayi/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1037-valid-boomerang](https://github.com/SVSThanmayi/Leetcode/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SVSThanmayi/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SVSThanmayi/Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Linked List
