@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SVSThanmayi/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SVSThanmayi/Leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SVSThanmayi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SVSThanmayi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/SVSThanmayi/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/SVSThanmayi/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SVSThanmayi/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SVSThanmayi/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SVSThanmayi/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0268-missing-number) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SVSThanmayi/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/SVSThanmayi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SVSThanmayi/Leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/SVSThanmayi/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SVSThanmayi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/SVSThanmayi/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
