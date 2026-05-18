@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SVSThanmayi/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/SVSThanmayi/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/SVSThanmayi/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/SVSThanmayi/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SVSThanmayi/Leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/SVSThanmayi/Leetcode/tree/master/0412-fizz-buzz) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SVSThanmayi/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/SVSThanmayi/Leetcode/tree/master/1025-divisor-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/SVSThanmayi/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Geometry
@@ -400,5 +402,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/SVSThanmayi/Leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/SVSThanmayi/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
