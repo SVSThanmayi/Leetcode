@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SVSThanmayi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SVSThanmayi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/SVSThanmayi/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1037-valid-boomerang](https://github.com/SVSThanmayi/Leetcode/tree/master/1037-valid-boomerang) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SVSThanmayi/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SVSThanmayi/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/SVSThanmayi/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/SVSThanmayi/Leetcode/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/SVSThanmayi/Leetcode/tree/master/1037-valid-boomerang) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SVSThanmayi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SVSThanmayi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/SVSThanmayi/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1859-sorting-the-sentence](https://github.com/SVSThanmayi/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [3024-type-of-triangle](https://github.com/SVSThanmayi/Leetcode/tree/master/3024-type-of-triangle) |
