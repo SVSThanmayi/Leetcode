@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SVSThanmayi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/SVSThanmayi/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/SVSThanmayi/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1037-valid-boomerang](https://github.com/SVSThanmayi/Leetcode/tree/master/1037-valid-boomerang) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/SVSThanmayi/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/SVSThanmayi/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/SVSThanmayi/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/SVSThanmayi/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/SVSThanmayi/Leetcode/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/SVSThanmayi/Leetcode/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/SVSThanmayi/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
