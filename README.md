@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SVSThanmayi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SVSThanmayi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/SVSThanmayi/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SVSThanmayi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SVSThanmayi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SVSThanmayi/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/SVSThanmayi/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/SVSThanmayi/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SVSThanmayi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0268-missing-number) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SVSThanmayi/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SVSThanmayi/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SVSThanmayi/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SVSThanmayi/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SVSThanmayi/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SVSThanmayi/Leetcode/tree/master/0169-majority-element) |
 | [1399-count-largest-group](https://github.com/SVSThanmayi/Leetcode/tree/master/1399-count-largest-group) |
 | [1512-number-of-good-pairs](https://github.com/SVSThanmayi/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/SVSThanmayi/Leetcode/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -452,4 +456,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/SVSThanmayi/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SVSThanmayi/Leetcode/tree/master/0101-symmetric-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SVSThanmayi/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SVSThanmayi/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
